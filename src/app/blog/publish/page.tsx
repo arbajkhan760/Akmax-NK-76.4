@@ -1,5 +1,4 @@
 'use client'
-import type { NextPage } from 'next';
 import { useSearchParams } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import StoryEditor from '@/components/app/StoryEditor';
