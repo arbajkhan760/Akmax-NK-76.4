@@ -2,7 +2,7 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import Link from 'next/link';
-import { ArrowLeft, FileQuestion, FileText, Users, Shield, Info } from 'lucide-react'; // Added more icons
+import { ArrowLeft, FileQuestion, FileText, Users, Shield, Info, Edit } from 'lucide-react'; // Added more icons
 
 export default function TermsPage() {
   return (
