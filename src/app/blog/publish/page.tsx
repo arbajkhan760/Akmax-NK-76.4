@@ -1,6 +1,4 @@
-
-'use client';
-
+'use client'
 import type { NextPage } from 'next';
 import { useSearchParams } from 'next/navigation';
 import { useEffect, useState } from 'react';
